@@ -1,4 +1,4 @@
-# 🖼️ Project: Denoising Diffusion Probabilistic Model (DDPM) for Image Generation
+# Project: Denoising Diffusion Probabilistic Model (DDPM) for Image Generation
 
 ## Problem Statement
 The goal of this assignment was to implement a **Generative AI** model capable of synthesizing novel, realistic handwritten digits (from the MNIST dataset) from pure random noise. This project demonstrates mastery of current, complex generative modeling techniques.
