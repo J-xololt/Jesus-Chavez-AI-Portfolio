@@ -34,6 +34,5 @@ Highly motivated Applied AI Engineer specializing in **Deep Learning, Generative
 | **Optimization Theory** | Visualization and principles of **Gradient Descent** and Learning Rates. | [Concept 1](DeepLearning-ITAI2376/Concept-1-Optimization/) |
 | **Neural Architectures** | Comparison of **CNNs, RNNs, and LSTMs** using the 'Neural Network Zoo' metaphor. | [Concept 2](DeepLearning-ITAI2376/Concept-2-Neural-Architectures/) |
 | **NLP Ambiguity & Context** | Challenges in Natural Language Processing (NLP) like **Semantic Ambiguity** (from *Arrival*). | [Concept 3](DeepLearning-ITAI2376/Concept-3-NLP-Challenges/) |
-| **Fundamentals (Image Data)** | Analysis of image data types (JPEG, PNG, TIFF) and use cases. | [Fundamentals](DeepLearning-ITAI2376/Fundamentals-Computer-Vision/) |
 
 ---
